@@ -14,3 +14,8 @@ To keep the data while not adding a record @Cachable works and caches the data.
 @CacheEvict removes the caches when user add new record.
 
 
+If you get an error when you run the project on Tomcat please control;
+
+properties for project/Deployment Assembly/Add Maven Dependencies
+
+
