@@ -2,7 +2,7 @@
 
 -It is a library catalog that users can add books and list them.
 
-Spring.io - MongoDB Connection - JUnit Tests
+ Spring.io - MongoDB Connection - JUnit Tests
 
 This project uses NOSQL database - MongoDB. The connection provided with mongo driver 3.0.
 
